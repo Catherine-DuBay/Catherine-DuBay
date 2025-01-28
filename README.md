@@ -1,6 +1,10 @@
-## Hi there 👋
+#### Hello! 👋 My name is **Catherine DuBay**.
 
-My name is Catherine DuBay and I am an Economics major at the University of Notre Dame, set to graduate in 2027. I have minors in Foundations of Business & Computing and Digital Technologies. I am originally from Birmingham, Michigan. In my free time, I enjoy reading, travel, making playlists, and spending time with friends.
+I am an Economics major at the University of Notre Dame, set to graduate in 2027. I have minors in Foundations of Business & Computing and Digital Technologies. I am originally from Birmingham, Michigan. In my free time, I enjoy reading, travel, making playlists, and spending time with friends.
+
+- 🌱 I’m currently learning Python, working with platforms such as Google Colab and VS Code.
+- 🔭 I’m comfortable working with data visualizations such as seaborn.
+- ⚡ I'm looking forward to learning more about GitHub.
 
 <!--
 **Catherine-DuBay/Catherine-DuBay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
