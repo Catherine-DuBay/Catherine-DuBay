@@ -9,6 +9,7 @@ I am an **Economics major** at the University of Notre Dame, set to graduate in 
 
 Contact Information:
   Email: cdubay2@nd.edu
+  
   LinkedIn: https://www.linkedin.com/in/catherine-dubay-a4a176292/
 
 <!--
