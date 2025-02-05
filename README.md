@@ -7,7 +7,7 @@ I am an **Economics major** at the University of Notre Dame, set to graduate in 
 - 💬 I'm currently working with streamlit to create my first ever app.
 - ⚡ I'm looking forward to learning more about GitHub.
 
-Contact Information:
+**Contact Information:**
   
   Email: cdubay2@nd.edu
   
