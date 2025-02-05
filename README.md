@@ -4,7 +4,12 @@ I am an **Economics major** at the University of Notre Dame, set to graduate in 
 
 - 🌱 I’m currently learning Python, working with platforms such as Google Colab and VS Code.
 - 🔭 I’m comfortable working with data visualizations such as seaborn.
+- 💬 I'm currently working with streamlit to create my first ever app.
 - ⚡ I'm looking forward to learning more about GitHub.
+
+Contact Information:
+  Email: cdubay2@nd.edu
+  LinkedIn: https://www.linkedin.com/in/catherine-dubay-a4a176292/
 
 <!--
 **Catherine-DuBay/Catherine-DuBay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
