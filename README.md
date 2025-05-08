@@ -4,11 +4,11 @@
 ## 🧑‍💻 About Me
 Elements of Computing II student with a passion for creative programming and data visualization. I enjoy building interactive applications that make complex information accessible and engaging. Comfortable working with VSCode and excited about expanding my skills in streamlit, pandas, and seaborn. In my free time, I enjoy reading, travel, making playlists, and spending time with friends.
 
-🏫 Student at the University of Notre Dame
-🎓 Set to Graduate in May 2027
-👩‍🏫 Majoring in Economics
-💻 Minoring in Computing and Digital Technologies & Foundations of Business
-🏠 Originally from Birmingham, Michigan
+- 🏫 Student at the University of Notre Dame
+- 🎓 Set to Graduate in May 2027
+- 👩‍🏫 Majoring in Economics
+- 💻 Minoring in Computing and Digital Technologies & Foundations of Business
+- 🏠 Originally from Birmingham, Michigan
 
 ## 🔍 Skills At a Glance
 
