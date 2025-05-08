@@ -1,5 +1,8 @@
 # Hello! 👋 My name is **Catherine DuBay**.
 
+![University of Notre Dame Main Building](https://github.com/user-attachments/assets/2341db5e-181b-43cd-b1c5-157b9c9c370c)
+
+
 ## Contents:
 - 🧩[About Me](#about-me)
 - 👩‍💻[Skills at a Glance](#skills-at-a-glance)
@@ -70,5 +73,5 @@ An interactive application for exploring penguin data through filters and visual
 
 ## 📫 Connect With Me
 Feel free to explore my projects and reach out to collaborate!  
-  Email: cdubay2@nd.edu
-  LinkedIn: https://www.linkedin.com/in/catherine-dubay-a4a176292/
+- Email: cdubay2@nd.edu
+- LinkedIn: https://www.linkedin.com/in/catherine-dubay-a4a176292/
