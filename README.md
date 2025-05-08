@@ -1,5 +1,10 @@
 # Hello! 👋 My name is **Catherine DuBay**.
 
+## Contents:
+- 🧩[About Me](#about-me)
+- 👩‍💻[Skills at a Glance](#skills-at-a-glance)
+- 🚀[Featured Projects](#featured-projects)
+- 📫[Connect with Me](#connect-with-me)
 
 ## 🧑‍💻 About Me
 Elements of Computing II student with a passion for creative programming and data visualization. I enjoy building interactive applications that make complex information accessible and engaging. Comfortable working with VSCode and excited about expanding my skills in streamlit, pandas, and seaborn. In my free time, I enjoy reading, travel, making playlists, and spending time with friends.
