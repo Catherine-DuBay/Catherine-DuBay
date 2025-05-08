@@ -1,4 +1,4 @@
-#### Hello! 👋 My name is **Catherine DuBay**.
+# Hello! 👋 My name is **Catherine DuBay**.
 
 
 ## 🧑‍💻 About Me
